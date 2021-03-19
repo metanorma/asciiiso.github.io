@@ -17,7 +17,7 @@
               {
                 sourcePath: DOCS_PATH,
                 urlPrefix: '',
-                title: "isogr",
+                title: "asciiiso",
                 headerBanner: 'header-banner.svg',
                 footerBanner: 'footer-banner.svg',
                 footerBannerLink: "https://open.ribose.com/",
